@@ -18,7 +18,7 @@
 
 ```
 git clone https://github.com/SiddharthaMadhav/Fund-me
-cd hardhat-fund-me-fcc
+cd Fund-me
 yarn
 ```
 
